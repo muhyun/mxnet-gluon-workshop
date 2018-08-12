@@ -10,8 +10,8 @@
 
 5. Keras DNN w/ MXNet + HPO/tuning
 
-5-1. Introduction to training cifar10 in keras plus multigpu and checkpointing[GIT](https://github.com/cyrusmvahid/GluonBootcamp/tree/master/labs/Keras)
+    1. Introduction to training cifar10 in keras plus multigpu and checkpointing [GIT](https://github.com/cyrusmvahid/GluonBootcamp/tree/master/labs/Keras)
 
-5-2. HPO [Slide](https://amazon.awsapps.com/workdocs/index.html#/document/44da31fce3a83e62ecbe592e70ee31e5c56f686f7b056277c3ec36eddd79f539)
+    2. HPO [Slide](https://amazon.awsapps.com/workdocs/index.html#/document/44da31fce3a83e62ecbe592e70ee31e5c56f686f7b056277c3ec36eddd79f539)
 
-5-3. HPO Lab [GIT](https://github.com/cyrusmvahid/GluonBootcamp/tree/master/labs/sagemaker_hyperparam)
+    3. HPO Lab [GIT](https://github.com/cyrusmvahid/GluonBootcamp/tree/master/labs/sagemaker_hyperparam)
