@@ -1,6 +1,6 @@
 # mxnet-gluon-workshop
 
-[1. Intro / Conv Networks]([)https://amazon.awsapps.com/workdocs/index.html#/document/c524c6e099ba67924ad50fb47d5e4d77c25680ae6e90224362aaa3c8bad393da)
+[1. Intro / Conv Networks](https://amazon.awsapps.com/workdocs/index.html#/document/c524c6e099ba67924ad50fb47d5e4d77c25680ae6e90224362aaa3c8bad393da)
 
 [2. Gluon Crash Course](https://github.com/thomelane/DeepLearningWithMXNetGluon/tree/6659688968247c4482a421a5e67cad71bc5bca0d)
 
